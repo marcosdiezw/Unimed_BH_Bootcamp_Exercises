@@ -7,7 +7,7 @@ In this repository you will find various useful exercises and challenges for lea
 
 <sub>![language](https://img.shields.io/badge/PT-green.svg) </sub>
 Bem-vindos! <br>
-Neste repositório vocês encontrarão vários exercíicios y desafíos úteis para o aprendizado de python, SQL, R e Ciência de Dados. Fiquem à vontade para deixar comentários y sugerencias. Muito obrigado!
+Neste repositório vocês encontrarão vários exercíicios y desafios úteis para o aprendizado de python, SQL, R e Ciência de Dados. Fiquem à vontade para deixar comentários y sugerencias. Muito obrigado!
 
 <sub>![language](https://img.shields.io/badge/ES-red.svg) </sub>
 ¡Bienvenidos! <br>
