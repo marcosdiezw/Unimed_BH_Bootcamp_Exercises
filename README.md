@@ -5,7 +5,7 @@ Exercises developed in the bootcamp of DIO and Unimed BH
 Welcome! <br>
 In this repository you will find various useful exercises and challenges for learning python, SQL, R and Date Science. Feel free to give comments and suggestions. Thank you!
 
-<sub>![language](https://img.shields.io/badge/ES-red.svg) </sub>
+<sub>![language](https://img.shields.io/badge/PT-red.svg) </sub>
 Bem-vindos! <br>
 Neste repositório vocês encontrarão vários exercíicios y desafíos úteis para o aprendizado de python, SQL, R e Ciência de Dados. Fiquem à vontade para deixar comentários y sugerencias. Muito obrigado!
 
