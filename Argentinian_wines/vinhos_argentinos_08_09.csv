@@ -1,0 +1,832 @@
+Vendedor Provincia;Vendedor Departamento;Producto;Variedad;Volumen (litros);Fecha;Precio;Forma de Pago
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;4720;2022-09-22;60;DIFERIDO                      
+MENDOZA                       ;TUPUNGATO                     ;VINO TINTO                                                  ;-- -  - ;20000;2022-09-22;80;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;3308;2022-09-22;90;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;3360;2022-09-22;85;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO TINTO                                                  ;-- -  - ;3360;2022-09-22;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;317000;2022-09-22;85;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;45000;2022-09-22;150;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;543510;2022-09-22;20;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;29180;2022-09-22;35;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;170860;2022-09-22;40;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;1200;2022-09-21;50;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;1751;2022-09-21;50;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;12449;2022-09-21;50;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;3245;2022-09-21;50;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;4725;2022-09-21;200;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;16200;2022-09-21;200;CONTADO                       
+SAN JUAN                      ;SARMIENTO                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;77280;2022-09-21;45;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;500000;2022-09-21;92;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL ROSADO                                        ;CRIOLLA GRANDE-- -  - ;6750;2022-09-21;60;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;1000;2022-09-21;60;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL BLANCO                                        ;CRIOLLA GRANDE-- -  - ;5250;2022-09-21;60;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL ROSADO                                        ;CRIOLLA GRANDE-- -  - ;4250;2022-09-21;60;CONTADO                       
+SAN JUAN                      ;CAPITAL                       ;VINO ESPECIAL C BLANCO                                      ;-- -  - ;29948;2022-09-21;145,48;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;VINO BLANCO                                                 ;-- -  - ;93000;2022-09-21;82,5;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;ARROPE DE UVA                                               ;-- -  - ;50;2022-09-21;385;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;740;2022-09-21;430,17;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;VINO ROSADO                                                 ;-- -  - ;102200;2022-09-21;82,5;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO TINTO                                                  ;-- -  - ;8916;2022-09-21;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;700;2022-09-21;35;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;20508;2022-09-21;150;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;5000;2022-09-20;50;CONTADO                       
+SAN JUAN                      ;POCITO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;75000;2022-09-20;44;DIFERIDO                      
+SAN JUAN                      ;POCITO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;197160;2022-09-20;45;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;99700;2022-09-20;190;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;57800;2022-09-20;130;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL TINTO                                 ;CABERNET FRANC-- -  - ;1872;2022-09-20;80;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;SAUVIGNON-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;67215;2022-09-20;125;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;SAUVIGNON-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;51535;2022-09-20;125;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL ROSADO                                        ;CRIOLLA CHICA-- -  - ;5000;2022-09-20;50;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;80000;2022-09-20;40;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO REGIONAL TINTO                                         ;-- -  - ;1850;2022-09-20;80;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO REGIONAL TINTO                                         ;-- -  - ;2700;2022-09-20;85;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO TINTO                                                  ;-- -  - ;418;2022-09-20;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;6096;2022-09-20;175;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;113124;2022-09-20;87;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;3384;2022-09-20;145;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;51204;2022-09-20;185;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;50000;2022-09-20;71,15;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;12000;2022-09-20;70;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;31000;2022-09-20;155;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO TINTO                                                  ;-- -  - ;38014;2022-09-20;85;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;23087;2022-09-20;60;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL BLANCO                                ;CHARDONNAY-- -  - ;5000;2022-09-20;100;CONTADO                       
+SAN JUAN                      ;SANTA LUCIA                   ;VINO BLANCO                                                 ;-- -  - ;157315;2022-09-20;63;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;325000;2022-09-19;55;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;50000;2022-09-19;85;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL TINTO                                 ;CABERNET FRANC-- -  - ;1700;2022-09-19;28;CONTADO                       
+SAN JUAN                      ;CAPITAL                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;90000;2022-09-19;155;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;169000;2022-09-19;155;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;22536;2022-09-19;145;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;47000;2022-09-19;100;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;ANCELLOTTA-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;139000;2022-09-19;170;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;8060;2022-09-19;50;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;47000;2022-09-19;100;CONTADO                       
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;5040;2022-09-19;47,85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;ARROPE DE UVA                                               ;-- -  - ;4400;2022-09-19;365;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;50000;2022-09-19;76;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;40000;2022-09-19;76;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;2217;2022-09-19;80;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10080;2022-09-19;47,85;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;5000;2022-09-19;35;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL TINTO                                 ;MALBEC-- -  - ;27540;2022-09-19;35;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;150000;2022-09-19;74,4;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;623970;2022-09-19;40;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;28500;2022-09-19;35;CONTADO                       
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;5000;2022-09-19;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;20148;2022-09-19;63;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;5720;2022-09-19;35;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;CABERNET SAUVIGNON-- -  - ;6480;2022-09-19;70;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;11578;2022-09-19;55;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;250000;2022-09-19;85;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;18451;2022-09-19;55;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;77298;2022-09-19;45;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;60000;2022-09-19;55;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;7141;2022-09-19;55;CONTADO                       
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;8568;2022-09-19;47,85;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO GRAN RESERVA VARIETAL TINTO                            ;MALBEC-- -  - ;1512;2022-09-19;47,85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;11844;2022-09-19;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;38208;2022-09-19;145;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;87912;2022-09-19;80;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;59454;2022-09-19;145;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;25000;2022-09-19;140;CONTADO                       
+SAN JUAN                      ;CAPITAL                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;77417;2022-09-19;55;CONTADO                       
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;10398;2022-09-17;62;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;10797;2022-09-17;82;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;29340;2022-09-17;75;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;24281;2022-09-17;55;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;25000;2022-09-17;140;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;38621;2022-09-16;87,74;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;6179;2022-09-16;86,02;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;TEMPRANILLO-OTRAS VAR. ROSADAS P/VINIFICAR-OTRAS VARIED TINTAS P/VINIF. - OTRAS VAR. ROSADAS P/VINIFICAR - OTRAS VARIED TINTAS P/VINIF.  ;154300;2022-09-16;90,1;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;26760;2022-09-16;60;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO GRAN RESERVA VARIETAL TINTO                            ;BONARDA-- -  - ;2120;2022-09-16;60;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;122800;2022-09-16;55;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;53502;2022-09-16;60;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;500000;2022-09-16;92;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;6533;2022-09-16;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;12840;2022-09-16;70;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;4205;2022-09-16;50;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1000;2022-09-16;80;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;36259;2022-09-16;90;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;300000;2022-09-16;50;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;MALBEC-- -  - ;3500;2022-09-16;120;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;22440;2022-09-16;115;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;12156;2022-09-16;95;DIFERIDO                      
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;105;2022-09-16;100;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;300000;2022-09-16;45;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;6192;2022-09-16;100;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;BONARDA-- -  - ;48072;2022-09-16;97;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;100956;2022-09-16;90;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;113;2022-09-16;330;CONTADO                       
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;6172;2022-09-16;50;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;8808;2022-09-16;175;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;2400;2022-09-16;108;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL A CERTIFICAR TINTO                            ;MERLOT-- -  - ;25344;2022-09-16;115;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;162000;2022-09-16;77;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;12016;2022-09-16;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;13680;2022-09-16;45;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;37404;2022-09-16;45;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;60684;2022-09-16;45;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;30000;2022-09-16;55;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;88232;2022-09-16;45;DIFERIDO                      
+SAN JUAN                      ;ALBARDON                      ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;22322;2022-09-16;55;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;61336;2022-09-16;55;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO BLANCO                                                 ;-- -  - ;30976;2022-09-15;60;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;5000;2022-09-15;50;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;8445;2022-09-15;5;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO ESPUMOSO/CHAMPAGNE EXTRA BRUT BLANCO                   ;-- -  - ;455;2022-09-15;98,45;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;85000;2022-09-15;40;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;17000;2022-09-15;40;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;BONARDA-OTRAS VAR. ROSADAS P/VINIFICAR- - OTRAS VAR. ROSADAS P/VINIFICAR - ;44800;2022-09-15;90,1;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;180000;2022-09-15;90,1;CONTADO                       
+RIO NEGRO                     ;GENERAL ROCA                  ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-PINOT NEGRO- - PINOT NEGRO                    - ;6000;2022-09-15;70;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;219063;2022-09-15;55;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;11810;2022-09-15;100;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;2581;2022-09-15;120;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;17052;2022-09-15;63;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;16523;2022-09-15;120;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;31937;2022-09-15;120;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;41117;2022-09-15;120;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;185000;2022-09-15;70;CONTADO                       
+MENDOZA                       ;TUPUNGATO                     ;VINO TINTO                                                  ;-- -  - ;4417;2022-09-15;150;CONTADO                       
+MENDOZA                       ;TUPUNGATO                     ;VINO TINTO                                                  ;-- -  - ;5583;2022-09-15;150;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18000;2022-09-15;125;CONTADO                       
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;5542;2022-09-15;65;CONTADO                       
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;14200;2022-09-15;65;CONTADO                       
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;5450;2022-09-15;65;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-- -  - ;24000;2022-09-15;47,5;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;18500;2022-09-15;110;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;4000;2022-09-15;145;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL ROSADO                                        ;SYRAH  (SHIRAZ-SIRAH)-- -  - ;24000;2022-09-15;47,5;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;8376;2022-09-15;90;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;12000;2022-09-15;55;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;33566;2022-09-15;55;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;1601;2022-09-15;55;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;9756;2022-09-15;90;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;11304;2022-09-15;108;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;23000;2022-09-15;145;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;16896;2022-09-15;175;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;5000;2022-09-15;55;CONTADO                       
+SAN JUAN                      ;CAPITAL                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;31591;2022-09-15;55;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO TINTO                                                  ;-- -  - ;5808;2022-09-15;128;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO VARIETAL A CERTIFICAR BLANCO                           ;TORRONTES RIOJANO-- -  - ;9307;2022-09-15;60;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO BLANCO                                                 ;-- -  - ;8920;2022-09-15;65;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO BLANCO                                                 ;-- -  - ;4580;2022-09-15;75;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;937;2022-09-15;55;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO TINTO                                                  ;-- -  - ;5874;2022-09-15;125;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;18042;2022-09-15;76;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;28048;2022-09-15;76;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;30000;2022-09-15;76;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;25000;2022-09-15;76;DIFERIDO                      
+MENDOZA                       ;TUNUYAN                       ;VINO TINTO                                                  ;-- -  - ;7925;2022-09-15;812,1;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;20000;2022-09-15;76;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;10440;2022-09-15;76;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;9561;2022-09-15;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;7608;2022-09-15;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;25616;2022-09-15;60;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;315000;2022-09-15;150;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;78870;2022-09-15;55;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;378121;2022-09-15;100;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;7155;2022-09-15;113,44;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;12018;2022-09-15;95;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;25000;2022-09-15;140;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;40000;2022-09-15;55;CONTADO                       
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;21056;2022-09-14;62;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;15252;2022-09-14;62;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;30020;2022-09-14;62;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;22569;2022-09-14;62;DIFERIDO                      
+SAN JUAN                      ;CHIMBAS                       ;VINO TINTO                                                  ;-- -  - ;29262;2022-09-14;85;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;96000;2022-09-14;42;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;VINO BLANCO                                                 ;-- -  - ;10000;2022-09-14;60;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;5790;2022-09-14;47;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;13230;2022-09-14;47;DIFERIDO                      
+NEUQUEN                       ;FALSO;VINO VARIETAL A CERTIFICAR TINTO                            ;MALBEC-- -  - ;2456;2022-09-14;60;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;VINO TINTO                                                  ;-- -  - ;12513;2022-09-14;85;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO TINTO                                                  ;-- -  - ;212362;2022-09-14;87,5;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;5772;2022-09-14;90;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;22764;2022-09-14;120;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;7000;2022-09-14;120;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;3936;2022-09-14;120;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;11880;2022-09-14;120;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;19596;2022-09-14;120;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;19528;2022-09-14;51,5;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;76956;2022-09-14;40;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;35735;2022-09-14;40;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;30340;2022-09-14;40;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;2000;2022-09-14;100;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;123500;2022-09-14;70;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;596560;2022-09-14;110;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;335169;2022-09-14;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;464831;2022-09-14;85;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;29136;2022-09-14;60;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;23704;2022-09-14;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;15060;2022-09-14;115;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;15800;2022-09-14;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;21252;2022-09-14;65;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;18054;2022-09-14;75;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;5935;2022-09-14;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;4221;2022-09-14;35;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;17476;2022-09-14;72;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;1000;2022-09-14;120;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;40000;2022-09-14;55;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;2625;2022-09-14;247,06;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL BLANCO                                ;CHARDONNAY-- -  - ;495;2022-09-14;417,12;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;53000;2022-09-14;59;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;18500;2022-09-14;110;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;41390;2022-09-14;55;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;5376;2022-09-14;145;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;45480;2022-09-14;47;DIFERIDO                      
+MENDOZA                       ;SAN CARLOS                    ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;100000;2022-09-14;125;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;740;2022-09-14;120;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO TINTO                                                  ;-- -  - ;23424;2022-09-13;85;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO TINTO                                                  ;-- -  - ;12342;2022-09-13;85;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;22956;2022-09-13;60;CONTADO                       
+SAN JUAN                      ;SARMIENTO                     ;VINO BLANCO                                                 ;-- -  - ;44940;2022-09-13;60;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;2000;2022-09-13;120;CONTADO                       
+SAN JUAN                      ;POCITO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;13000;2022-09-13;51;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;VINO BLANCO                                                 ;-- -  - ;27988;2022-09-13;60;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;2556;2022-09-13;115;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;2856;2022-09-13;90;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;780;2022-09-13;100;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;50000;2022-09-13;40;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;5838;2022-09-13;215;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;12732;2022-09-13;215;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;3636;2022-09-13;50;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;11545;2022-09-13;80;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;9552;2022-09-13;70;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;52007;2022-09-13;60;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;112049;2022-09-13;60;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;13330;2022-09-13;51,5;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;4980;2022-09-13;78,55;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;91500;2022-09-13;87,74;CONTADO                       
+SAN JUAN                      ;CAPITAL                       ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;31000;2022-09-13;238,4;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;100000;2022-09-13;90;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;15617;2022-09-13;45;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;13312;2022-09-13;200;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;1297;2022-09-13;45;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;13866;2022-09-13;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;22500;2022-09-13;40;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;120200;2022-09-13;40;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;15348;2022-09-13;200;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;30100;2022-09-13;40;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;SEMILLON-- -  - ;1000;2022-09-13;180;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;1000;2022-09-13;180;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;190000;2022-09-13;40;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;200000;2022-09-13;42;CONTADO                       
+SALTA                         ;CAFAYATE                      ;VINO TINTO                                                  ;-- -  - ;59018;2022-09-13;83,69;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;10000;2022-09-13;2,2;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO TINTO                                                  ;-- -  - ;52942;2022-09-13;83,7;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;110100;2022-09-13;111,57;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO BLANCO                                                 ;-- -  - ;5560;2022-09-13;125;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;11000;2022-09-13;125;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;10800;2022-09-13;90;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;20345;2022-09-13;85;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;32097;2022-09-13;65;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;118563;2022-09-13;55;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;6462;2022-09-13;55;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO TINTO                                                  ;-- -  - ;42500;2022-09-13;45;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO BLANCO                                                 ;-- -  - ;15500;2022-09-13;40;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO TINTO                                                  ;-- -  - ;6360;2022-09-13;99,9;DIFERIDO                      
+SAN JUAN                      ;CAPITAL                       ;VINO BLANCO                                                 ;-- -  - ;6377;2022-09-13;57;CONTADO                       
+SAN JUAN                      ;CAPITAL                       ;VINO BLANCO                                                 ;-- -  - ;20000;2022-09-13;57;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;58600;2022-09-13;70;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;18600;2022-09-13;70;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;200000;2022-09-13;62;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;63134;2022-09-13;62;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL BLANCO                                        ;MOSCATEL ROSADO-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;91000;2022-09-13;75;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL ENDULZADO TINTO                               ;MALBEC-- -  - ;96000;2022-09-13;163,4;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;25000;2022-09-13;50;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;7848;2022-09-12;120;DIFERIDO                      
+SAN JUAN                      ;CHIMBAS                       ;VINO TINTO                                                  ;-- -  - ;14324;2022-09-12;85;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;28690;2022-09-12;170;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;11310;2022-09-12;170;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;2000;2022-09-12;330;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;352100;2022-09-12;40;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;VINO TINTO                                                  ;-- -  - ;8135;2022-09-12;85;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;25000;2022-09-12;66;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;12200;2022-09-12;57;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;55649;2022-09-12;57;DIFERIDO                      
+MENDOZA                       ;TUPUNGATO                     ;VINO RESERVA VARIETAL TINTO                                 ;CABERNET FRANC-- -  - ;75;2022-09-12;200;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;80000;2022-09-12;106,48;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;50000;2022-09-12;60;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;25000;2022-09-12;60;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;11200;2022-09-12;82;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;108;2022-09-12;100;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;54;2022-09-12;100;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;VERDOT-- -  - ;54;2022-09-12;100;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;12750;2022-09-12;35;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;140000;2022-09-12;57;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;110148;2022-09-12;82;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;108;2022-09-12;100;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;28852;2022-09-12;82;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;482170;2022-09-12;57,93;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;48000;2022-09-12;90;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;29180;2022-09-12;35;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;VINO TINTO                                                  ;-- -  - ;80000;2022-09-12;85;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;VINO BLANCO                                                 ;-- -  - ;160000;2022-09-12;60;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;19900;2022-09-12;65;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;31280;2022-09-12;65;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;84500;2022-09-12;65;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;3073;2022-09-12;75;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;20630;2022-09-12;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;100000;2022-09-12;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;5417;2022-09-12;48;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;22080;2022-09-12;50;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;7100;2022-09-12;40;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;1260;2022-09-12;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;19985;2022-09-12;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;10000;2022-09-12;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;2000;2022-09-12;40;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;11722;2022-09-12;55;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;21360;2022-09-12;55;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;8160;2022-09-12;45;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;6396;2022-09-12;70;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;9564;2022-09-12;100;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;26024;2022-09-12;80;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO BLANCO                                                 ;-- -  - ;29222;2022-09-12;28;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;14160;2022-09-12;63;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO BLANCO                                                 ;-- -  - ;30198;2022-09-12;28;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO BLANCO                                                 ;-- -  - ;222760;2022-09-12;28;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;24700;2022-09-12;105;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;16773;2022-09-12;175;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;70328;2022-09-12;55;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;36453;2022-09-12;55;CONTADO                       
+SAN JUAN                      ;ANGACO                        ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;18194;2022-09-12;55;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1321;2022-09-12;330;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;17352;2022-09-12;63;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;19000;2022-09-12;200;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;22584;2022-09-12;90;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;32445;2022-09-12;55;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;15720;2022-09-12;50;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;283200;2022-09-10;46;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;66167;2022-09-10;150;CONTADO                       
+NEUQUEN                       ;FALSO;VINO VARIETAL TINTO                                         ;PINOT NEGRO-- -  - ;79000;2022-09-10;101,12;DIFERIDO                      
+NEUQUEN                       ;FALSO;VINO VARIETAL TINTO                                         ;PINOT NEGRO-- -  - ;12000;2022-09-10;101,12;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;750;2022-09-10;105;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;3000;2022-09-09;80;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;3870;2022-09-09;120;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;1068;2022-09-09;120;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;8150;2022-09-09;70;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;30053;2022-09-09;150;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;44332;2022-09-09;10;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;14829;2022-09-09;10;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;14251;2022-09-09;10;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;66240;2022-09-09;10;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;35850;2022-09-09;10;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;20298;2022-09-09;10;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;9000;2022-09-09;35;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;53000;2022-09-09;150;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;49000;2022-09-09;150;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;46460;2022-09-09;150;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;400000;2022-09-09;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;2243;2022-09-09;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;86000;2022-09-09;70;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;7920;2022-09-09;40;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;VINO TINTO                                                  ;-- -  - ;12484;2022-09-09;80;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;19101;2022-09-09;50;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;53849;2022-09-09;60;CONTADO                       
+MENDOZA                       ;GENERAL ALVEAR                ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;4358;2022-09-09;200;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;TEMPRANILLO-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;14241;2022-09-09;70;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MERLOT-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;10859;2022-09-09;70;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;6490;2022-09-09;80;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-- -  - ;36000;2022-09-09;35;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;20000;2022-09-09;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;31000;2022-09-09;85;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;23327;2022-09-09;95;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;5409;2022-09-09;70;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO BLANCO                                                 ;-- -  - ;8574;2022-09-09;58;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;7564;2022-09-09;52;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO CONCENTRADO ROSADO                                    ;-- -  - ;2000;2022-09-09;300;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;3249;2022-09-09;70;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;13446;2022-09-09;70;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;2236;2022-09-09;65;DIFERIDO                      
+SAN JUAN                      ;CHIMBAS                       ;VINO BLANCO                                                 ;-- -  - ;179040;2022-09-09;58;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;7817;2022-09-09;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;675;2022-09-09;70;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;2880;2022-09-09;85;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;5613;2022-09-09;95;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO VARIETAL TINTO                                         ;MERLOT-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;6290;2022-09-09;88;DIFERIDO                      
+SAN JUAN                      ;CHIMBAS                       ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;31290;2022-09-09;94;DIFERIDO                      
+SAN JUAN                      ;CHIMBAS                       ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;6080;2022-09-09;66;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;8492;2022-09-09;75;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO TINTO                                                  ;-- -  - ;264440;2022-09-09;85;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10000;2022-09-09;35;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO DULCE NAT.VARIETAL BLANCO                              ;CHENIN-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;9002;2022-09-09;60;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;28000;2022-09-09;85;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;83000;2022-09-09;67;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;MALBEC-- -  - ;40572;2022-09-09;175;DIFERIDO                      
+MENDOZA                       ;LA PAZ                        ;VINO DULCE NAT.VARIETAL ROSADO                              ;SYRAH  (SHIRAZ-SIRAH)-- -  - ;1485;2022-09-09;150;CONTADO                       
+MENDOZA                       ;LA PAZ                        ;VINO DULCE NAT.VARIETAL BLANCO                              ;CHENIN-- -  - ;2282;2022-09-09;150;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;90000;2022-09-09;33;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;60000;2022-09-09;58;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;34716;2022-09-09;95;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;38844;2022-09-09;95;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;5952;2022-09-09;175;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;7950;2022-09-09;134;CONTADO                       
+MENDOZA                       ;SAN CARLOS                    ;VINO TINTO                                                  ;-- -  - ;5503;2022-09-08;128;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;66400;2022-09-08;80;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;40000;2022-09-08;170;DIFERIDO                      
+MENDOZA                       ;SAN CARLOS                    ;VINO VARIETAL TINTO                                         ;VERDOT-- -  - ;2800;2022-09-08;180;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;100;2022-09-08;50;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;7000;2022-09-08;50;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;3000;2022-09-08;40;CONTADO                       
+MENDOZA                       ;MAIPU                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;58400;2022-09-08;6,85;CONTADO                       
+MENDOZA                       ;MAIPU                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;9200;2022-09-08;6,85;CONTADO                       
+SAN JUAN                      ;SANTA LUCIA                   ;VINO ROSADO                                                 ;-- -  - ;245797;2022-09-08;80;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;VINO ROSADO                                                 ;-- -  - ;265008;2022-09-08;60;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;15000;2022-09-08;50;DIFERIDO                      
+MENDOZA                       ;LAVALLE                       ;VINO BLANCO                                                 ;-- -  - ;50000;2022-09-08;70;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;PINOT NEGRO-- -  - ;13000;2022-09-08;45;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO TINTO                                                  ;-- -  - ;6755;2022-09-08;30;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;VINO BLANCO                                                 ;-- -  - ;35000;2022-09-08;60;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;50000;2022-09-08;60;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;40000;2022-09-08;50;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;34694;2022-09-08;50;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;30000;2022-09-08;50;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;89784;2022-09-08;85;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;396706;2022-09-08;100;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;3294;2022-09-08;100;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;320000;2022-09-08;83,31;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;14094;2022-09-08;65;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;185906;2022-09-08;66,3;CONTADO                       
+MENDOZA                       ;MAIPU                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1000;2022-09-08;100;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;729216;2022-09-08;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;13298;2022-09-08;170;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;3000;2022-09-08;40;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;32000;2022-09-08;180;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;10000;2022-09-08;176;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;16702;2022-09-08;170;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;14376;2022-09-08;170;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;15000;2022-09-08;210;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO BLANCO                                                 ;-- -  - ;21779;2022-09-08;35;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;12000;2022-09-08;40;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;140000;2022-09-08;57,62;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;7540;2022-09-08;310;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;258640;2022-09-08;40;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;VINO BLANCO                                                 ;-- -  - ;350000;2022-09-08;60;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;350000;2022-09-08;54;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;50000;2022-09-08;40;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;30000;2022-09-08;200;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;15000;2022-09-08;50;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;20075;2022-09-08;175;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;14925;2022-09-08;175;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;260;2022-09-08;175;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-08;134;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;684;2022-09-07;921;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;10000;2022-09-07;108;DIFERIDO                      
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;3000;2022-09-07;50;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;208500;2022-09-07;78;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;75000;2022-09-07;170;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;20000;2022-09-07;200;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;30000;2022-09-07;92;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;30000;2022-09-07;92;CONTADO                       
+MENDOZA                       ;LAVALLE                       ;VINO TINTO                                                  ;-- -  - ;37569;2022-09-07;83;CONTADO                       
+MENDOZA                       ;LAVALLE                       ;VINO BLANCO                                                 ;-- -  - ;58108;2022-09-07;80;CONTADO                       
+MENDOZA                       ;LAVALLE                       ;VINO TINTO                                                  ;-- -  - ;4452;2022-09-07;130;CONTADO                       
+MENDOZA                       ;LAVALLE                       ;VINO BLANCO                                                 ;-- -  - ;5704;2022-09-07;80;CONTADO                       
+MENDOZA                       ;LAVALLE                       ;VINO BLANCO                                                 ;-- -  - ;33576;2022-09-07;58;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;150000;2022-09-07;45;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;47800;2022-09-07;48;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;400;2022-09-07;310;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;108500;2022-09-07;35;CONTADO                       
+MENDOZA                       ;MAIPU                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1000;2022-09-07;310;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;60000;2022-09-07;115,71;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;180000;2022-09-07;59,64;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;24600;2022-09-07;53,36;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;40070;2022-09-07;52;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;500000;2022-09-07;85;DIFERIDO                      
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;113;2022-09-07;50;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;180;2022-09-07;40;CONTADO                       
+SAN JUAN                      ;SANTA LUCIA                   ;VINO TINTO                                                  ;-- -  - ;316989;2022-09-07;85;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;VINO ROSADO                                                 ;-- -  - ;10000;2022-09-07;60;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL BLANCO                                        ;SAUVIGNON-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;3500;2022-09-07;50;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;97935;2022-09-07;45;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;VINO TINTO                                                  ;-- -  - ;10000;2022-09-07;60;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;58824;2022-09-07;35;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;6219;2022-09-07;100;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO CONCENTRADO ROSADO                                    ;-- -  - ;50000;2022-09-07;150;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;500;2022-09-07;300;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL TINTO                                 ;MALBEC-- -  - ;1700;2022-09-07;28;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;18500;2022-09-07;110;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-07;134;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-07;134;CONTADO                       
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;64200;2022-09-06;295,5;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;57170;2022-09-06;45;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO ROSADO                                                 ;-- -  - ;255000;2022-09-06;75;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;3693;2022-09-06;105;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;14208;2022-09-06;105;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;4712;2022-09-06;105;DIFERIDO                      
+SAN JUAN                      ;ANGACO                        ;VINO BLANCO                                                 ;-- -  - ;17956;2022-09-06;60;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;GARNACHA(GRENACHE)-- -  - ;4340;2022-09-06;28;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;19873;2022-09-06;37;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;68251;2022-09-06;60;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;270000;2022-09-06;60;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO ROSADO                                                 ;-- -  - ;255000;2022-09-06;85;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;142700;2022-09-06;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;23724;2022-09-06;67;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;36;2022-09-06;200;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10080;2022-09-06;47,85;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10080;2022-09-06;47,85;DIFERIDO                      
+SALTA                         ;CAFAYATE                      ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10080;2022-09-06;47,85;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;756;2022-09-06;26;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;50000;2022-09-06;88;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;56315;2022-09-06;32;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;55643;2022-09-06;70;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;480000;2022-09-06;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;171036;2022-09-06;80;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;BONARDA-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;13532;2022-09-06;70;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;12605;2022-09-06;70;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-- -  - ;24000;2022-09-06;47,5;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;66850;2022-09-06;295,5;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;65992;2022-09-06;295,5;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;27658;2022-09-06;295,5;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;250000;2022-09-06;45;DIFERIDO                      
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO BLANCO                                                 ;-- -  - ;12964;2022-09-06;62;DIFERIDO                      
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO TINTO                                                  ;-- -  - ;4732;2022-09-06;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;107892;2022-09-06;70;DIFERIDO                      
+LA RIOJA                      ;CHILECITO                     ;VINO TINTO                                                  ;-- -  - ;20000;2022-09-06;40;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;650000;2022-09-06;35;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO ROSADO                                                 ;-- -  - ;1402;2022-09-06;60;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO ROSADO                                                 ;-- -  - ;1402;2022-09-06;60;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO ROSADO                                                 ;-- -  - ;17196;2022-09-06;60;DIFERIDO                      
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;10000;2022-09-06;2,2;DIFERIDO                      
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;36192;2022-09-06;45;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;500;2022-09-06;95;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;120;2022-09-06;70;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;2000;2022-09-06;60;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL BLANCO                                        ;SAUVIGNON-SEMILLON- - SEMILLON                       - ;2280;2022-09-06;60;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;2304;2022-09-06;50;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;3060;2022-09-06;50;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;6000;2022-09-06;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;1105;2022-09-06;75;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-06;134;CONTADO                       
+MENDOZA                       ;MAIPU                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;20;2022-09-06;310;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO ROSADO                                                 ;-- -  - ;600000;2022-09-05;58,44;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-05;134;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;779200;2022-09-05;45;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;120000;2022-09-05;150;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;8000;2022-09-05;92;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;54091;2022-09-05;90;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO DULCE NATURAL BLANCO                                   ;-- -  - ;2700;2022-09-05;60;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO RESERVA VARIETAL TINTO                                 ;MALBEC-- -  - ;7000;2022-09-05;70;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;34213;2022-09-05;76;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;3900;2022-09-05;80;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;40000;2022-09-05;40;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;34000;2022-09-05;40;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;16000;2022-09-05;40;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;4836;2022-09-05;90;CONTADO                       
+LA RIOJA                      ;CHILECITO                     ;VINO TINTO                                                  ;-- -  - ;140000;2022-09-05;75;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;1482;2022-09-05;78;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1259;2022-09-05;270,85;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;4970;2022-09-05;100;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;5000;2022-09-05;75;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;24426;2022-09-05;70;CONTADO                       
+MENDOZA                       ;SANTA ROSA                    ;VINO TINTO                                                  ;-- -  - ;30700;2022-09-05;75;DIFERIDO                      
+MENDOZA                       ;SANTA ROSA                    ;VINO ROSADO                                                 ;-- -  - ;129900;2022-09-05;73;DIFERIDO                      
+SAN JUAN                      ;ALBARDON                      ;VINO BLANCO                                                 ;-- -  - ;97600;2022-09-05;60;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;15000;2022-09-05;78;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;60000;2022-09-05;70;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;6799;2022-09-05;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;120000;2022-09-05;75;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;150000;2022-09-05;75;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO BLANCO                                                 ;-- -  - ;13912;2022-09-05;63;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;44300;2022-09-05;40;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;44300;2022-09-05;40;CONTADO                       
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO BLANCO                                                 ;-- -  - ;30000;2022-09-05;62;DIFERIDO                      
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO TINTO                                                  ;-- -  - ;64896;2022-09-05;85;DIFERIDO                      
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO TINTO                                                  ;-- -  - ;19092;2022-09-05;85;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO VARIETAL TINTO                                         ;BONARDA-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;5363;2022-09-05;70;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;25000;2022-09-05;85;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;300000;2022-09-05;45;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;13810;2022-09-05;70;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;6748;2022-09-05;80;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;5640;2022-09-05;72;CONTADO                       
+SAN JUAN                      ;SANTA LUCIA                   ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;28000;2022-09-05;1,97;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;7000;2022-09-05;7000;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;1350;2022-09-05;120;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;10009;2022-09-05;92;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;9537;2022-09-05;95;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;40000;2022-09-05;40;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO ROSADO                                                 ;-- -  - ;55214;2022-09-05;40;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;18500;2022-09-05;110;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO BLANCO                                                 ;-- -  - ;60786;2022-09-05;40;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO BLANCO                                                 ;-- -  - ;3260;2022-09-05;47,5;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO BLANCO                                                 ;-- -  - ;82000;2022-09-05;47,5;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-04;134;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;84629;2022-09-03;40;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-03;134;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;65000;2022-09-03;45;DIFERIDO                      
+MENDOZA                       ;SAN CARLOS                    ;VINO TINTO                                                  ;-- -  - ;2506;2022-09-03;125;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;32660;2022-09-03;35;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;38045;2022-09-03;60;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;14872;2022-09-03;85;CONTADO                       
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;8000;2022-09-03;40;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;8000;2022-09-03;40;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;51000;2022-09-02;115;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;25858;2022-09-02;140;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL BLANCO                                        ;SEMILLON-- -  - ;11876;2022-09-02;140;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;2000;2022-09-02;472;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;39046;2022-09-02;62;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-- -  - ;2180;2022-09-02;80;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;SAUVIGNON-- -  - ;2812;2022-09-02;110;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;1875;2022-09-02;110;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;SAUVIGNON-- -  - ;938;2022-09-02;110;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-02;134;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;110000;2022-09-02;120;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO ROSADO                                                 ;-- -  - ;34160;2022-09-02;45;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;232668;2022-09-02;16,72;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;1167535;2022-09-02;16,72;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;11310;2022-09-02;70;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;7161;2022-09-02;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;4718;2022-09-02;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;TEMPRANILLO-- -  - ;18177;2022-09-02;90;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-- -  - ;13523;2022-09-02;90;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-PEDRO GIMENEZ- - PEDRO GIMENEZ                  - ;7248;2022-09-02;55;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL BLANCO                                        ;CHENIN-PEDRO GIMENEZ- - PEDRO GIMENEZ                  - ;27352;2022-09-02;55;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;20000;2022-09-02;147;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;5000;2022-09-02;147;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;5000;2022-09-02;147;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO ROSADO                                                 ;-- -  - ;28672;2022-09-02;75;DIFERIDO                      
+MENDOZA                       ;LAVALLE                       ;VINO TINTO                                                  ;-- -  - ;41232;2022-09-02;135;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;VINO TINTO                                                  ;-- -  - ;90940;2022-09-02;70;CONTADO                       
+SAN JUAN                      ;ALBARDON                      ;VINO BLANCO                                                 ;-- -  - ;90940;2022-09-02;60;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;320000;2022-09-02;78;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;23684;2022-09-02;95;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;80676;2022-09-02;67;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;3224;2022-09-02;95;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;30438;2022-09-02;95;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;29214;2022-09-02;95;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;34160;2022-09-02;60;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL BLANCO                                        ;CHENIN-- -  - ;3300;2022-09-02;90;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO ROSADO                                                 ;-- -  - ;2561;2022-09-02;80;CONTADO                       
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO BLANCO                                                 ;-- -  - ;62036;2022-09-02;62;DIFERIDO                      
+SAN JUAN                      ;NUEVE DE JULIO                ;VINO TINTO                                                  ;-- -  - ;17280;2022-09-02;85;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;MOSTO SULFITADO ROSADO                                      ;-- -  - ;5440;2022-09-02;40;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;24888;2022-09-02;80;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;2000;2022-09-02;58;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;36540;2022-09-02;855,55;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;103300;2022-09-02;40;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;30000;2022-09-02;40;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;4200;2022-09-02;90;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;13000;2022-09-02;85;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;9920;2022-09-02;24;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;3000;2022-09-02;389,28;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;11699;2022-09-02;24;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO TINTO                                                  ;-- -  - ;2381;2022-09-02;22;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;100000;2022-09-02;62;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;985;2022-09-02;80;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;53830;2022-09-02;45;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;42223;2022-09-02;45;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;3196;2022-09-02;55;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;45710;2022-09-02;60;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;1437;2022-09-02;50;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;8696;2022-09-02;60;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;5640;2022-09-02;33,06;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;7482;2022-09-02;65;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;1000;2022-09-02;275;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;225;2022-09-02;425;CONTADO                       
+SALTA                         ;SAN CARLOS                    ;VINO BLANCO                                                 ;-- -  - ;30100;2022-09-02;66;DIFERIDO                      
+SALTA                         ;SAN CARLOS                    ;VINO BLANCO                                                 ;-- -  - ;30100;2022-09-02;66;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;99230;2022-09-02;130;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;530000;2022-09-02;30;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;12732;2022-09-01;130;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;30000;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;55838;2022-09-01;64;DIFERIDO                      
+MENDOZA                       ;GUAYMALLEN                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;2025;2022-09-01;358,74;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO TINTO                                                  ;-- -  - ;4995;2022-09-01;790,2;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO TINTO                                                  ;-- -  - ;3645;2022-09-01;790,3;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-09-01;134;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;10000;2022-09-01;210;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10000;2022-09-01;200;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VAR. ROSADAS P/VINIFICAR- - OTRAS VAR. ROSADAS P/VINIFICAR - ;400000;2022-09-01;140;DIFERIDO                      
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL TINTO                                         ;TEMPRANILLO-- -  - ;25000;2022-09-01;87,79;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;5000;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;21060;2022-09-01;65;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;7600;2022-09-01;65;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;7600;2022-09-01;65;DIFERIDO                      
+MENDOZA                       ;LAVALLE                       ;VINO TINTO                                                  ;-- -  - ;1435;2022-09-01;124,4;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;26325;2022-09-01;70;DIFERIDO                      
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;78279;2022-09-01;130;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;4025;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO ROSADO                                                 ;-- -  - ;8614;2022-09-01;75;DIFERIDO                      
+MENDOZA                       ;LAVALLE                       ;VINO TINTO                                                  ;-- -  - ;38346;2022-09-01;135;CONTADO                       
+MENDOZA                       ;LAVALLE                       ;VINO BLANCO                                                 ;-- -  - ;19872;2022-09-01;124,4;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;30599;2022-09-01;130;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;21839;2022-09-01;70;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO ROSADO                                                 ;-- -  - ;20000;2022-09-01;75;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;3700;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;31299;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;23722;2022-09-01;70;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;7922;2022-09-01;55;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;30000;2022-09-01;63;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;30000;2022-09-01;63;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;4000;2022-09-01;310;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;107575;2022-09-01;90;CONTADO                       
+MENDOZA                       ;GODOY CRUZ                    ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;25000;2022-09-01;200;CONTADO                       
+SAN JUAN                      ;VEINTICINCO DE MAYO           ;VINO BLANCO                                                 ;-- -  - ;7129;2022-09-01;60;CONTADO                       
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL BLANCO                                        ;CHARDONNAY-- -  - ;10000;2022-09-01;140;DIFERIDO                      
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;1000;2022-09-01;325;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;30000;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;25040;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;139672;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;360328;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;192830;2022-09-01;43,75;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;1100;2022-09-01;90;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;79200;2022-09-01;53,5;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;31200;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO ROSADO                                                 ;-- -  - ;12714;2022-09-01;75;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;48576;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO ROSADO                                                 ;-- -  - ;5180;2022-09-01;75;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;23820;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;31200;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;ANCELLOTTA-- -  - ;1000;2022-09-01;40;DIFERIDO                      
+MENDOZA                       ;TUPUNGATO                     ;VINO VARIETAL TINTO                                         ;CABERNET SAUVIGNON-- -  - ;5000;2022-09-01;180;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;2867;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;10788;2022-09-01;50;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;BONARDA-ASPIRANT BOUSCHET-OTRAS VAR.BLANCAS P/VINIFICAR - ASPIRANT BOUSCHET              - OTRAS VAR.BLANCAS P/VINIFICAR ;228000;2022-09-01;50;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;1000;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;17354;2022-09-01;55;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;8839;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;4908;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;10000;2022-09-01;240;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;MALBEC-- -  - ;21408;2022-09-01;125;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;900000;2022-09-01;68;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;80000;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;CABERNET SAUVIGNON-- -  - ;2270;2022-09-01;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;5496;2022-09-01;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR TINTO                            ;MALBEC-- -  - ;672;2022-09-01;90;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO DULCE NAT.VARIETAL BLANCO                              ;CHENIN-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;44361;2022-09-01;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;20000;2022-09-01;75;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;37512;2022-09-01;90;DIFERIDO                      
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;TEMPRANILLO-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;659;2022-09-01;87,61;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO VARIETAL TINTO                                         ;TEMPRANILLO-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;569;2022-09-01;54,67;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;2413;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;720;2022-09-01;60;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;500000;2022-09-01;55;DIFERIDO                      
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;3500;2022-09-01;115;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;3000;2022-09-01;100,53;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;7600;2022-09-01;100,53;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;20000;2022-09-01;50;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;9402;2022-09-01;50;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;13410;2022-09-01;50;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;200000;2022-09-01;97;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;17800;2022-09-01;110;CONTADO                       
+SAN JUAN                      ;CHIMBAS                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;64598;2022-09-01;54;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;270000;2022-09-01;50;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO TINTO                                                  ;-- -  - ;6477;2022-09-01;50;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;100001;2022-09-01;110;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;24487;2022-09-01;165;DIFERIDO                      
+SAN JUAN                      ;CHIMBAS                       ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;28760;2022-09-01;49;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;33410;2022-09-01;70;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;25960;2022-09-01;155;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;122174;2022-09-01;60;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;111597;2022-09-01;80;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;215450;2022-09-01;80;DIFERIDO                      
+SAN JUAN                      ;CAUCETE                       ;VINO TINTO                                                  ;-- -  - ;6910;2022-09-01;100;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;VINO BLANCO                                                 ;-- -  - ;3320;2022-09-01;100;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO SULFITADO BLANCO                                      ;-- -  - ;5640;2022-09-01;40;CONTADO                       
+MENDOZA                       ;RIVADAVIA                     ;VINO BLANCO                                                 ;-- -  - ;500000;2022-09-01;50;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;80000;2022-09-01;85;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;33305;2022-09-01;75;DIFERIDO                      
+MENDOZA                       ;RIVADAVIA                     ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18000;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;17080;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO ROSADO                                                 ;-- -  - ;100000;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO TINTO                                                  ;-- -  - ;62300;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;126300;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;144140;2022-09-01;40;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;VINO BLANCO                                                 ;-- -  - ;18360;2022-09-01;40;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;18500;2022-09-01;110;CONTADO                       
+MENDOZA                       ;SAN RAFAEL                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;200;2022-09-01;300;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;BONARDA-- -  - ;34160;2022-09-01;72;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;SYRAH  (SHIRAZ-SIRAH)-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;29074;2022-09-01;72;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;18650;2022-08-31;134;CONTADO                       
+MENDOZA                       ;JUNIN                         ;VINO TINTO                                                  ;-- -  - ;6570;2022-08-31;90;DIFERIDO                      
+MENDOZA                       ;JUNIN                         ;VINO BLANCO                                                 ;-- -  - ;24530;2022-08-31;70;DIFERIDO                      
+MENDOZA                       ;TUNUYAN                       ;VINO TINTO                                                  ;-- -  - ;4262;2022-08-31;130;CONTADO                       
+MENDOZA                       ;TUNUYAN                       ;VINO TINTO                                                  ;-- -  - ;21819;2022-08-31;170;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL BLANCO                                        ;TORRONTES RIOJANO-OTRAS VAR.BLANCAS P/VINIFICAR- - OTRAS VAR.BLANCAS P/VINIFICAR  - ;107575;2022-08-31;120;CONTADO                       
+SAN JUAN                      ;CAUCETE                       ;MOSTO CONCENTRADO RECTIFICADO BLANCO                        ;-- -  - ;11136;2022-08-31;0,84;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;1029276;2022-08-31;85;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;1800;2022-08-31;58;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;19900;2022-08-31;90,72;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-- -  - ;2900;2022-08-31;195;CONTADO                       
+MENDOZA                       ;JUNIN                         ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1000;2022-08-31;310;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO VARIETAL TINTO                                         ;CABERNET FRANC-OTRAS VARIED TINTAS P/VINIF.- - OTRAS VARIED TINTAS P/VINIF.   - ;3272;2022-08-31;50;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;150000;2022-08-31;60;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;150000;2022-08-31;85;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO ROSADO                                                 ;-- -  - ;150000;2022-08-31;75;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;2000;2022-08-31;58;DIFERIDO                      
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;5000;2022-08-31;58;DIFERIDO                      
+MENDOZA                       ;MAIPU                         ;VINO VARIETAL TINTO                                         ;MALBEC-- -  - ;6435;2022-08-31;40;CONTADO                       
+MENDOZA                       ;LUJAN DE CUYO                 ;VINO RESERVA VARIETAL TINTO                                 ;MALBEC-- -  - ;22500;2022-08-31;28;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO BLANCO                                                 ;-- -  - ;25000;2022-08-31;50;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;VINO TINTO                                                  ;-- -  - ;139672;2022-08-31;50;CONTADO                       
+MENDOZA                       ;GENERAL ALVEAR                ;VINO BLANCO                                                 ;-- -  - ;173000;2022-08-31;60;CONTADO                       
+MENDOZA                       ;MAIPU                         ;VINO TINTO                                                  ;-- -  - ;6390;2022-08-31;30;CONTADO                       
+MENDOZA                       ;SAN MARTIN                    ;MOSTO CONCENTRADO BLANCO                                    ;-- -  - ;1000;2022-08-31;300;DIFERIDO                      
+MENDOZA                       ;SAN MARTIN                    ;MOSTO CONCENTRADO ROSADO                                    ;-- -  - ;2000;2022-08-31;300;DIFERIDO                      
+SAN JUAN                      ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR BLANCO                           ;CHENIN-- -  - ;31470;2022-08-31;60;CONTADO                       
+SAN JUAN                      ;SAN MARTIN                    ;VINO VARIETAL A CERTIFICAR BLANCO                           ;VIOGNIER-- -  - ;8740;2022-08-31;60;CONTADO                       
+;;; -  - ;;;;
